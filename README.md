@@ -53,10 +53,10 @@ I'm currently strengthening my software engineering skills by building real-worl
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn]
-- 🌐 Portfolio: [Add your Portfolio]
-- 🐦 X: [Add your X profile]
-- 📧 Email: [Add your professional email]
+- 💼 LinkedIn: https://www.linkedin.com/in/oluwasegun-samuel-oladele-545b1143b/
+- 🌐 Portfolio: https://tinyurl.com/2jmuysjs
+- 🐦 X: https://x.com/Samuelolad75492
+- 📧 Email: oladeleoluwasegun65@gmail.com
 
 ---
 
